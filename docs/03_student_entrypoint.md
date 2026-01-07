@@ -50,13 +50,13 @@ Do **not** start by running code.
 Start by understanding:
 
 1. **The problem AFW addresses**
-   (`docs/00_problem_context.md`)
+   ([00_problem_context.md](./00_problem_context.md))
 
 2. **The conceptual solution**
-   (`docs/01_proposed_solution.md`)
+   ([01_proposed_solution.md](./01_proposed_solution.md))
 
 3. **The system architecture and rationale**
-   (`docs/02_system_architecture.md`)
+   ([02_system_architecture.md](./02_system_architecture.md))
 
 This order is intentional.
 
@@ -177,7 +177,7 @@ you are doing the project correctly.
 ---
 
 📄 **Next (when instructed by your course):**
-Explore the `/nexus` folder to understand how your work maps to academic capabilities and assessment.
+Explore the [`/nexus`](../nexus) folder to understand how your work maps to academic capabilities and assessment.
 
 ---
 

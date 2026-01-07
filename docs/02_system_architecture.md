@@ -241,7 +241,7 @@ With the architecture defined, the next step is to understand:
 * how academic capabilities are made explicit
 
 📄 Continue with:
-**`docs/03_student_entrypoint.md`**
+**[03_student_entrypoint.md](./03_student_entrypoint.md)**
 
 ---
 

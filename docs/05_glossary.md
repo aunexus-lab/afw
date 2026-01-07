@@ -122,6 +122,8 @@ If a term is unclear in an assignment or discussion,
 
 ---
 
+[← Return to README](../README.md)
+
 ### End of Document
 
 ---

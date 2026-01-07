@@ -202,7 +202,7 @@ AFW has served its purpose.
 ---
 
 📄 **Next:**
-Refer students to `docs/03_student_entrypoint.md` and `/nexus` materials as appropriate for your course.
+Refer students to [`docs/03_student_entrypoint.md`](./03_student_entrypoint.md) and [`/nexus`](../nexus) materials as appropriate for your course.
 
 ---
 

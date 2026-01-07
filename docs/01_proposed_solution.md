@@ -192,7 +192,7 @@ The next step is to examine:
 * **why specific architectural choices were made**
 
 📄 Continue with:
-**`docs/02_system_architecture.md`**
+**[02_system_architecture.md](./02_system_architecture.md)**
 
 ---
 

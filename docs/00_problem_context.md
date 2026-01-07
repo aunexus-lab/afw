@@ -185,7 +185,7 @@ The next step is to explore:
 * the **reasoning behind design decisions**
 
 📄 Continue with:
-**`docs/01_proposed_solution.md`**
+**[01_proposed_solution.md](./01_proposed_solution.md)**
 
 ---
 
