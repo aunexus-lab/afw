@@ -1,0 +1,8 @@
+[project]
+name = "afw"
+version = "0.1.0"
+description = "AFW Academic Framework"
+authors = [
+    {name = "AFW Team", email = "team@afw.edu"},
+]
+dependencies = []
