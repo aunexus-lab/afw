@@ -1,2 +1,0 @@
-# Train model script
-pass

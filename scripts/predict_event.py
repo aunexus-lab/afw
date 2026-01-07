@@ -1,2 +1,0 @@
-# Predict event script
-pass

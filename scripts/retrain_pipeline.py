@@ -1,2 +1,0 @@
-# Retrain pipeline script
-pass

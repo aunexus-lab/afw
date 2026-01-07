@@ -1,2 +1,0 @@
-# Evaluate model script
-pass
